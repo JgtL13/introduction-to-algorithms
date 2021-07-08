@@ -1,0 +1,25 @@
+
+A program implementing the prune and search algorithm on a selection problem.
+The program will generate 100 random numbers in range 1 to 1000.
+The user will then input a number K from keyboard.
+The program will then find the Kth largest number in the random numbers generated.
+Output consists number of numbers deleted and p used for every round.
+
+Sample input:
+32
+
+Sample output(value will vary):
+p : 370
+Amount of numbers deleted : 42
+p : 681
+Amount of numbers deleted : 29
+p : 572
+Amount of numbers deleted : 15
+p : 623
+Amount of numbers deleted : 6
+p : 659
+Amount of numbers deleted : 5
+p : 669
+Amount of numbers deleted : 2
+p : 663
+32th largest number found : 663

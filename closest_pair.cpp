@@ -1,3 +1,5 @@
+//A program that demonstrates the closest pair problem using divide and conquer technique
+
 #include <iostream>
 #include <fstream>
 #include <math.h>

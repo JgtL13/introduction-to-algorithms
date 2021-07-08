@@ -1,0 +1,15 @@
+The program reads a file named "node.txt" as input
+The file consists a series of nodes
+The output is a pair of nodes that has the shortest distance and its distance
+
+Example:
+Input:
+2,3
+2,4
+6,7
+8,9
+10,11
+Output
+2,3
+2,4
+1.0
